@@ -1200,6 +1200,10 @@ a:hover {
 ._404-header {
   font-size: 32px;
   line-height: 120%;
+  margin-top: 20px;
+  color: #333;
+  letter-spacing: 0px;
+  text-align: center;
 }
 
 .h1.app-and-news {

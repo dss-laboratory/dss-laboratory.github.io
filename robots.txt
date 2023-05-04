@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://dss-lab.org.ua/sitemap.xml
